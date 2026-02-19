@@ -47,7 +47,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [🖥️ proxmox-nspawn-guide](https://github.com/kossstya/Portfolio/tree/0c673ff4095964dbc2ad05966a4f208bf457c1ff/proxmox-nspawn-guide) | Running Proxmox VE inside a systemd-nspawn container on Debian 12 | Proxmox, systemd-nspawn, LVM, iptables |
-| [🌐 virtual-network-lab](https://github.com/kossstya/Portfolio/tree/0c673ff4095964dbc2ad05966a4f208bf457c1ff/virtual-network-lab) | Full virtual network lab with VLANs, pfSense firewall, HTTPS web server and OSI model analysis | KVM, pfSense, Open vSwitch, Wireshark, Apache |
+| [🌐 virtual-network-lab](https://github.com/kossstya/Portfolio/tree/a47277a933a24b6ad858887230e111d8cb9a59c5/virtual-network-lab) | Full virtual network lab with VLANs, pfSense firewall, HTTPS web server and OSI model analysis | KVM, pfSense, Open vSwitch, Wireshark, Apache |
 | [🔧 noc-engineer-report](https://github.com/kossstya/Portfolio/blob/a47277a933a24b6ad858887230e111d8cb9a59c5/noc-engineer-report/README.md) | Incident report: full restoration of a compromised WordPress website in production | Nginx, WordPress, Docker, MySQL |
 
 ---
