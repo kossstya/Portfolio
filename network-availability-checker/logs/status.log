@@ -1,0 +1,15 @@
+[2026-06-03 14:51:39] UP   | Google-DNS | 8.8.8.8:53
+[2026-06-03 14:51:39] UP   | Cloudflare-DNS | 1.1.1.1:53
+[2026-06-03 14:51:39] UP   | Google-HTTPS | google.com:443
+[2026-06-03 14:51:39] UP   | GitHub-HTTPS | github.com:443
+[2026-06-03 14:51:39] DOWN | Local-Router | 192.168.1.1:80 | host unreachable
+[2026-06-03 14:51:39] ALERT: Local-Router (192.168.1.1) is unreachable — was UNKNOWN
+[2026-06-03 14:51:39] SUMMARY | UP: 4  DOWN: 1
+[2026-06-03 14:51:39] --- scan complete ---
+[2026-06-03 14:51:55] UP   | Google-DNS | 8.8.8.8:53
+[2026-06-03 14:51:55] UP   | Cloudflare-DNS | 1.1.1.1:53
+[2026-06-03 14:51:55] UP   | Google-HTTPS | google.com:443
+[2026-06-03 14:51:55] UP   | GitHub-HTTPS | github.com:443
+[2026-06-03 14:51:55] DOWN | Local-Router | 192.168.1.1:80 | host unreachable
+[2026-06-03 14:51:55] SUMMARY | UP: 4  DOWN: 1
+[2026-06-03 14:51:55] --- scan complete ---
