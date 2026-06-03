@@ -1,0 +1,9 @@
+[2026-06-03 14:29:15] CPU: 7%
+[2026-06-03 14:29:15] RAM: 41% (6578MB / 15714MB)
+[2026-06-03 14:29:15] Disk /: 57%
+[2026-06-03 14:29:15] Disk /boot/efi: 2%
+[2026-06-03 14:29:15] Disk /media/kostiantyn/KALI: 44%
+[2026-06-03 14:29:15] Disk /media/kostiantyn/persistence: 31%
+[2026-06-03 14:29:15] ALERT: Service [ssh] is NOT running
+[2026-06-03 14:29:15] Service [cron]: running
+[2026-06-03 14:29:15] --- check complete ---
