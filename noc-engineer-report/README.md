@@ -1,20 +1,20 @@
-# 🔧 NOC Incident Report — WordPress Site Recovery
+#  NOC Incident Report — WordPress Site Recovery
 
 > A real-world incident report documenting the full **diagnosis and restoration** of a production WordPress website that went down due to multiple simultaneous failures.
 
 ---
 
-## 📋 Incident Summary
+##  Incident Summary
 
 **Role:** NOC (Network Operations Center) Engineer
-**Status:** ✅ Resolved
+**Status:**  Resolved
 **Environment:** Nginx + WordPress + Docker + MySQL/MariaDB
 
 The website was completely non-functional. Through systematic diagnosis, four separate root causes were identified and resolved.
 
 ---
 
-## 🔍 Root Causes Identified
+##  Root Causes Identified
 
 | # | Component | Issue | Resolution |
 |---|-----------|-------|------------|
@@ -25,7 +25,7 @@ The website was completely non-functional. Through systematic diagnosis, four se
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -35,7 +35,7 @@ The website was completely non-functional. Through systematic diagnosis, four se
 
 ---
 
-## 🔎 Diagnosis Workflow
+##  Diagnosis Workflow
 
 ```
 Initial Alert: Site Unreachable
@@ -73,7 +73,7 @@ Initial Alert: Site Unreachable
 
 ---
 
-## ⚙️ Key Commands Used
+##  Key Commands Used
 
 ### Firewall Diagnosis & Fix
 ```bash
@@ -130,7 +130,7 @@ SHOW TABLES LIKE 'wp_%';
 
 ---
 
-## ✅ Final Verification
+##  Final Verification
 
 ```bash
 # HTTP → HTTPS redirect
