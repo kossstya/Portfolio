@@ -44,8 +44,3 @@ Building hands-on experience through real lab environments and automation script
 - CCNA fundamentals — TCP/IP, routing protocols, switching
 
 ---
-
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:internetarchitecture2025@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kossstya)
