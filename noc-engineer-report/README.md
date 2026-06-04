@@ -152,6 +152,6 @@ curl -I https://site.com/wp-admin/
 
 ---
 
-## 📝 License
+##  License
 
 This project is for portfolio and educational purposes.
