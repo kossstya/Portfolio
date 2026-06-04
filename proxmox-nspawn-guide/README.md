@@ -1,16 +1,16 @@
-# 🖥️ Proxmox VE in systemd-nspawn Container
+#  Proxmox VE in systemd-nspawn Container
 
 > A complete guide for deploying **Proxmox VE** as a `systemd-nspawn` container on **Debian 12 (Bookworm)** — without needing a dedicated physical machine.
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This guide documents how to run a full **Proxmox VE** installation inside a `systemd-nspawn` container on a Debian 12 host. This approach allows you to use Proxmox's web interface and management features on a shared host system using LVM volumes for storage.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────┐
@@ -33,7 +33,7 @@ This guide documents how to run a full **Proxmox VE** installation inside a `sys
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Component | Technology |
 |-----------|-----------|
@@ -48,7 +48,7 @@ This guide documents how to run a full **Proxmox VE** installation inside a `sys
 
 ---
 
-## 📦 What's Covered
+##  What's Covered
 
 -  LVM physical volume and logical volume setup
 -  Debian base system via `debootstrap`
@@ -63,7 +63,7 @@ This guide documents how to run a full **Proxmox VE** installation inside a `sys
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Set up LVM volumes
 
@@ -117,7 +117,7 @@ socat TCP-LISTEN:8006,fork TCP:10.0.0.2:8006 &
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -132,6 +132,6 @@ socat TCP-LISTEN:8006,fork TCP:10.0.0.2:8006 &
 
 ---
 
-## 📝 License
+##  License
 
 This project is for educational and documentation purposes.
