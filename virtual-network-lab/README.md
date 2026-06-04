@@ -1,16 +1,16 @@
-# 🌐 Virtual Network Lab
+#  Virtual Network Lab
 
 > A fully functional virtual network lab built on **KVM** with **pfSense** firewall, **VLAN segmentation**, and a live **HTTPS web server** — including deep OSI model analysis with Wireshark captures.
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This project demonstrates building a complete enterprise-style network environment using only open-source virtualization tools. The lab includes a firewall/router, isolated client and server VLANs, and full packet-level analysis of HTTPS traffic.
 
 ---
 
-## 🏗️ Network Architecture
+##  Network Architecture
 
 ```
                         Internet (NAT)
@@ -42,7 +42,7 @@ This project demonstrates building a complete enterprise-style network environme
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Category | Technology |
 |----------|-----------|
@@ -57,7 +57,7 @@ This project demonstrates building a complete enterprise-style network environme
 
 ---
 
-## 📦 What's Covered
+##  What's Covered
 
 ### Part 1 — Lab Setup
 -  KVM hypervisor configuration
@@ -84,7 +84,7 @@ Full analysis of an HTTPS request (`rnb-team.com`) across all 7 OSI layers:
 
 ---
 
-## 🔧 Key Configurations
+##  Key Configurations
 
 ### Open vSwitch — VLAN Setup
 
@@ -120,7 +120,7 @@ a2ensite default-ssl
 
 ---
 
-## 📊 Network Diagram
+##  Network Diagram
 
 The full L3 network diagram   <img width="627" height="711" alt="image" src="https://github.com/user-attachments/assets/ee5b74d3-7b42-4a63-8eea-1cca04a383c7" />
 
@@ -130,6 +130,6 @@ The full L3 network diagram   <img width="627" height="711" alt="image" src="htt
 
 ---
 
-## 📝 License
+##  License
 
 This project is for educational and portfolio purposes.
