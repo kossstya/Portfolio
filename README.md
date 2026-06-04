@@ -1,11 +1,11 @@
-# Hi, I'm Kostiantyn 👋
+# Hi, I'm Kostiantyn 
 
 Junior Network / System Administrator focused on Linux infrastructure, network monitoring, and operational support.  
 Building hands-on experience through real lab environments and automation scripts.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **OS & Networking**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -25,7 +25,7 @@ Building hands-on experience through real lab environments and automation script
 
 ---
 
-## 📁 Projects
+##  Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -38,7 +38,7 @@ Building hands-on experience through real lab environments and automation script
 
 ---
 
-## 📌 Currently learning
+##  Currently learning
 
 - Zabbix — monitoring stack setup and alerting configuration
 - CCNA fundamentals — TCP/IP, routing protocols, switching
